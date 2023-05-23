@@ -1,0 +1,32 @@
+header{
+    background:#7a559c;
+    padding: 50px;
+
+}
+
+#logo{
+    border-radius: 10px;
+}
+
+@font-face{
+    font-family: 'Inconsolata';
+    src: url('Inconsolata.ttf') format('truetype');
+
+}
+
+.titulo-principal{
+    position: absolute;
+    top: 0%;
+    left: 3%;
+    font-family: 'Inconsolata';
+    text-align: center;
+    font-size: 50px;
+}
+
+main{
+    width: 940px;
+}
+
+form{
+    margin: 40px 0;
+}
